@@ -1,1 +1,1 @@
-# Lab5-JS
+https://reni-rena.github.io/Lab5-JS/
